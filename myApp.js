@@ -5,7 +5,7 @@
   const SESSION_ID_KEY = '__APP2WEB_SESSION_ID__';
 
   const App2WebSDK = {
-    config: {},
+    config: 6600,
     queryParams: {},
     eventCache: new Map(),
     offlineQueue: [],
